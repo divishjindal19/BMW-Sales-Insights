@@ -26,7 +26,7 @@ Users can dynamically filter data using **Year, Month, and Weekday slicers**.
 # 🖼 Dashboard Screenshots
 
 ## Main Sales Dashboard
-![Dashboard](./assets/dashboard_overview.png)
+![Dashboard](./img/Insights-1.png)
 
 Shows:
 
