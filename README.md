@@ -26,7 +26,7 @@ Users can dynamically filter data using **Year, Month, and Weekday slicers**.
 # 🖼 Dashboard Screenshots
 
 ## Main Sales Dashboard
-![Dashboard](./img/Insights-1.png)
+![Dashboard](./img/Insights-3.png)
 
 Shows:
 
@@ -39,7 +39,7 @@ Shows:
 ---
 
 ## Model Insights Page
-![Model Insights](./assets/model_insights.png)
+![Model Insights](./img/Insights-1.png)
 
 Displays:
 
