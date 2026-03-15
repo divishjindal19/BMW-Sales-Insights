@@ -22,6 +22,7 @@ Users can dynamically filter data using **Year, Month, and Weekday slicers**.
 
 ---
 
+
 # 🖼 Dashboard Screenshots
 
 ## Main Sales Dashboard
@@ -48,6 +49,7 @@ Displays:
 - Model level performance
 
 ---
+
 
 # 🎯 Project Objective
 
