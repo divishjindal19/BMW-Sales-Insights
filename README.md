@@ -197,7 +197,7 @@ The project uses multiple **DAX calculations** to derive insights.
 
 ---
 
-## Revenue
+## ALL MEASURES
 
 ```DAX
 Revenue =
